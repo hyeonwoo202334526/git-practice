@@ -1,0 +1,92 @@
+    1  pwd
+    2  ls
+    3  cd Downloads
+    4  pwd
+    5  ls
+    6  git config --global user.name "HyeonWoo Lee"
+    7  git config --global user.email gudn1210@gachon.ac.kr
+    8  git init
+    9  git status
+   10  cd OSS
+   11  clear
+   12  pwd
+   13  ls
+   14  cd OSS
+   15  cd clear
+   16  clear
+   17  git clone https://github.com/hyeonwoo202334526/git-practice.git
+   18  git clone https://github.com/hyeonwoo202334526/git-practice.git
+   19  git clone https://github.com/hyeonwoo202334526/git-practice.git
+   20  pwd
+   21  cd OSS
+   22  cd OSS/
+   23  pwd
+   24  ls
+   25  ls -lha
+   26  git status
+   27  cd oss
+   28  cd OSS
+   29  cd document
+   30  cd O S S
+   31  cd OSS
+   32  hwd
+   33  pwd
+   34  ls
+   35  cd Documents
+   36  ls
+   37  cd OSS
+   38  cd
+   39  cd Desktop
+   40  ls
+   41  cd OSS
+   42  ls
+   43  cd transfomers
+   44  git init
+   45  git config user.name "hyeonwoo202334526"
+   46  git config user.email "gudn1210@gachon.ac.kr"
+   47  ls
+   48  cp 2_hw_leehyeonwoo.py backup_2_hw leehyeonwoo.py
+   49  cp 2_hw_leehyeonwoo.py backup_2_hw_leehyeonwoo.pyy
+   50  ls
+   51  cp -r../neuralintlab.
+   52  cp -r ../neuralintlab .
+   53  cd neuralintlab
+   54  ls
+   55  ls
+   56  pwd
+   57  ls
+   58  pwd
+   59  ls
+   60  cd OSS
+   61  cd transfomers
+   62  ls
+   63  pwd
+   64  cd Desktop
+   65  cd home
+   66  pwd
+   67  clear
+   68  pwd
+   69  cd ../OSS
+   70  cd ../transfomers
+   71  pwd
+   72  ls
+   73  mkdir OSS
+   74  ls
+   75  cd OSS
+   76  ls
+   77  mkdir new_directory
+   78  cd transfomers
+   79  ls -lha
+   80  ls -lh >> file_list.txt
+   81  cat file_list.txt
+   82  cat word.txt
+   83  mkdir word.txt
+   84  ls
+   85  ls -lh >> word.txt
+   86  cat words.txt
+   87  sort <words.txt> sorted_words.txt
+   88  cat sorted_words.txt
+   89  echo ~
+   90  echo *
+   91  chmod 644 words.txt
+   92  history > history_command.txt
